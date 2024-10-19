@@ -1,0 +1,5 @@
+﻿  Proyecto.cpp
+A:\Todo\Downloads\23I\Graficas\Proyecto\Proyecto\Proyecto\Proyecto.cpp(344,16): warning C4101: 'y': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Proyecto\Proyecto\Proyecto\Proyecto.cpp(344,13): warning C4101: 'x': variable local sin referencia
+A:\Todo\Downloads\23I\Graficas\Proyecto\Proyecto\Proyecto\Proyecto.cpp(344,19): warning C4101: 'angle': variable local sin referencia
+  Proyecto.vcxproj -> A:\Todo\Downloads\23I\Graficas\Proyecto\Proyecto\Debug\Proyecto.exe
